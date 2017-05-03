@@ -4,3 +4,5 @@ git push
 
 account info: dilerous
 password: norm 18
+
+https://github.com/dilerous/beer.git
